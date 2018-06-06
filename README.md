@@ -1,5 +1,5 @@
 # frontend-nanodegree-feedreader
-<hr>
+
 ## Project Overview
 
 In this project we are using Jasmine to test if the Javascript is working properly. 
